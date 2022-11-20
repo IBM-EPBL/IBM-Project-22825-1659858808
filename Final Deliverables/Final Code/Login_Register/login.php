@@ -151,7 +151,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 
 <br>
                    <center> Does not have an account ? <a href="register.php">Sign Up</a><br><br>
-                    <p><a href="../main/index.html">Home</a>.</p> </center>
+                    <p><a href="../Main/index.html">Home</a>.</p> </center>
 
 
                     <div class="text-center p-t-136">
