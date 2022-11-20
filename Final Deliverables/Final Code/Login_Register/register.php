@@ -167,7 +167,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                     <p>Already have an account? <a href="login.php">Login here</a>.</p>
 
 <br><center>
-                    <p><a href="../main/index.html">Home</a></center></p>
+                    <p><a href="../Main/index.html">Home</a></center></p>
                     <div class="text-center p-t-136">
                         
                         
